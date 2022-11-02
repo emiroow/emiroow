@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amiresmaeelzadeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://twitter.com/aemiroow" target="blank"><img src="https://img.shields.io/twitter/follow/aemiroow?logo=twitter&style=for-the-badge" alt="aemiroow" /></a> </p>
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/emiroow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/emiroow) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emiroow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aemiroow) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/emiroow) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aemiroow) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/emiroow) 
 
