@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=emiroow&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
- ![]<img src="https://ghchart.rshah.org/HEXCOLORCODE/emiroow" alt="Name Your Github chart">
+<img src="https://ghchart.rshah.org/emiroow" alt="Name Your Github chart">
 
 
 ### ✍️ Random Dev Quote
