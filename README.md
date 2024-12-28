@@ -1,12 +1,9 @@
-
----
-
 # Hi 👋, I'm Amiresmaeelzadeh  
 
 ## 🙋‍♂️ About Me:  
 - 🌍 I’m from **Iran / Tabriz**  
 - 🌱 I’m currently learning **nestJs**  
-- 💼 I’m working on ****  
+- 💼 I’m working on **server**  
 - 🎯 My goal for the future, become a **full stack developer**
 - 
 ## 🌐 Connect with Me:  
