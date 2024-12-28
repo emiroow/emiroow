@@ -60,8 +60,7 @@ Here are the tools and technologies I work with:
 ## 🏆 GitHub Achievements:  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=emiroow&theme=radical&margin-w=5)
 
-## 🐍 Snake Eating My Contributions:  
-![Snake Animation](https://github.com/emiroow/emiroow/blob/master/github-contribution-grid-snake.svg)  
+![Snake Animation](https://github.com/emiroow/emiroow/blob/main/github-contribution-grid-snake.svg)  
 
 ## ✍️ Quote of the Day:  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
